@@ -1,21 +1,21 @@
 #Ex06
-# def computepay(hours, rate):
-#     if hours > 40:
-#         ot_hours = hours - 40
-#         ot_rate = rate + (0.5 * rate)
-#         ot_payment = ot_hours * ot_rate 
-#         normal_payment = rate * 40
-#         gross_payment = ot_payment + normal_payment
-#         return gross_payment
-#     elif hours <= 40:
-#         gross_payment = hours * rate 
-#         return gross_payment
+def computepay(hours, rate):
+    if hours > 40:
+        ot_hours = hours - 40
+        ot_rate = rate + (0.5 * rate)
+        ot_payment = ot_hours * ot_rate 
+        normal_payment = rate * 40
+        gross_payment = ot_payment + normal_payment
+        return gross_payment
+    elif hours <= 40:
+        gross_payment = hours * rate 
+        return gross_payment
         
         
 
-# hours = float(input('Enter hours: ') )
-# rate = float(input('Enter rate: '))
-# computepay(hours, rate)
+hours = float(input('Enter hours: ') )
+rate = float(input('Enter rate: '))
+computepay(hours, rate)
 
 #Ex07 
 def computegrade(value):
