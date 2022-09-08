@@ -1,3 +1,5 @@
+#Functions Chapter
+
 #Ex06
 def computepay(hours, rate):
     if hours > 40:

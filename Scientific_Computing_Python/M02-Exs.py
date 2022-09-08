@@ -1,3 +1,5 @@
+#Variables Chapter
+
 #Ex02 
 name = str(input('Enter your name: '))
 print('Hello {}'.format(name))
