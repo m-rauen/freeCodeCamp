@@ -1,6 +1,6 @@
 # :books: freeCodeCamp
 
-### :information_source: Basic Information 
+### Basic Information 
 
 ---
 
