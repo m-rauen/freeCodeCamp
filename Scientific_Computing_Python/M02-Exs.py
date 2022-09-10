@@ -1,4 +1,5 @@
 #Variables Chapter
+#https://books.trinket.io/pfe/02-variables.html
 
 #Ex02 
 name = str(input('Enter your name: '))

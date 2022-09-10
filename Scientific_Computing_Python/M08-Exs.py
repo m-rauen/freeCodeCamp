@@ -1,4 +1,5 @@
 #Arrays Chapter
+#https://books.trinket.io/pfe/08-lists.html
 
 #Ex4 
 arr_words = []

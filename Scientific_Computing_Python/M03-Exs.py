@@ -1,4 +1,5 @@
 #Conditionals Chapter
+#https://books.trinket.io/pfe/03-conditional.html
 
 #Ex01
 hours = float(input('Enter hours: '))

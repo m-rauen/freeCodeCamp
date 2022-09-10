@@ -1,4 +1,5 @@
 #Files Chapter
+#https://books.trinket.io/pfe/07-files.html
 
 #Ex01 
 fname = input('Enter a file name: ')
